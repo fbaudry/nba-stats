@@ -1,0 +1,16 @@
+{
+  "name": "nba",
+  "version": "1.0.0",
+  "description": "",
+  "main": "test.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "jsdom": "^15.2.1",
+    "moment": "^2.24.0",
+    "puppeteer": "^2.0.0"
+  }
+}
